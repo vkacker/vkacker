@@ -13,8 +13,8 @@
 
 ### Some Fun Stats 
 #### My GitHub Stats
-![Viraj's github stats](https://github-readme-stats.vercel.app/api?username=allstar128&theme=dark&show_icons=true)
+![Viraj's github stats](https://github-readme-stats.vercel.app/api?username=vkacker&theme=dark&show_icons=true)
 
 #### Language Usage
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allstar128&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkacker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
