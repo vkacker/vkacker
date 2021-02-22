@@ -4,7 +4,7 @@
 <h4 align = "center">Internationally Recognized Computer Scientist passionate about Social Entrepreneuriship, Artificial Intelligence, and the blend of two to tackle global problems </h4>
 
 ### What I'm Up To
-- 🔥 Building **Flaer**, a platform to help nonprofits find partners
+- 💰 Interning at **Engage VC / Tech Square Venture** as an Insights Analyst
 - 🔬 Researching at **Harvard University** as an Undergraduate Research Assistant
 - 🎓 Studying Computer Science at **The Georgia Institute of Technology** with a concentrtion in Computer Intelligence and Systems and Architecture. Part of the Gold Scholar and Create-X Scholar scholarship programs
 
